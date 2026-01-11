@@ -1,0 +1,9 @@
+uvicorn
+python-dotenv
+llama-index
+llama-index-llms-gemini
+llama-index-embeddings-gemini
+llama-index-vector-stores-chroma
+chromadb
+python-multipart
+pypdf
